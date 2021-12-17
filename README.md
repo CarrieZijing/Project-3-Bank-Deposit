@@ -1,34 +1,24 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# Bank Deposit
+*[Ouykhy, Zijing]*
 
-*[Your Cohort, Campus & Date]*
+*[DAFT 2021NOV, Ironhack Paris, 20211217]*
 
 ## Content
 - [Project Description](#project-description)
-- [Rules](#rules)
 - [Workflow](#workflow)
-- [Organization](#organization)
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
-
-## Rules
-Briefly describe the rules of the game.
+The data is related to direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe to a term deposit. \
+So we need to clean the data so that it could be used for the analysis.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
-
-## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+We use Jira to plan the project, and each step as a Trello card, yo ucan find more details in the workflow chart screeshot in the repo
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/CarrieZijing/Project-3-Bank-Deposit)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/UCYj0HaV/group-3-bank-deposit)  
