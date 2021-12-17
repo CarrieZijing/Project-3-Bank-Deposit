@@ -15,9 +15,11 @@ The data is related to direct marketing campaigns (phone calls) of a Portuguese 
 So we need to clean the data so that it could be used for the analysis.
 
 ## Workflow
-We use Jira to plan the project, and each step as a Trello card, you can find more details in the workflow chart screeshot in the repo.\
+We use Jira to plan the project, and each step as a Trello card.\
 For python coding part, we use Jupyter Notebook on both ends, and merge the codes together.\
 For slides, we use Google docs to collaborate.
+![Jira workflow](https://user-images.githubusercontent.com/93996718/146594179-7c6151ad-8986-4085-bdf1-69ef82cea190.jpg)
+
 
 ## Links
 
