@@ -24,5 +24,4 @@ For slides, we use Google docs to collaborate.
 ## Links
 
 [Repository](https://github.com/CarrieZijing/Project-3-Bank-Deposit)  
-[Slides](https://slides.com/)  
 [Trello](https://trello.com/b/UCYj0HaV/group-3-bank-deposit)  
